@@ -1,4 +1,4 @@
-# retail-bi-ecommerce-analysis
+# Retail-BI-ecommerce-analysis
 North Star E-Commerce — Retail BI Analysis
 
 Project Overview
