@@ -27,7 +27,9 @@ Business Recommendations
 * Plan inventory around year-end sales patterns.
 * Review pricing and costs in lower-margin product categories.
 * Explore opportunities to grow higher-margin categories.
+## Dashboard Preview
 
+![North Star E-Commerce Power BI Dashboard](C49BD206-1D32-4A9C-B932-9BCB9F3FCD93.png)
 Project Status
 
 Portfolio project — analysis and dashboard development completed. Further documentation and project files will be added.
